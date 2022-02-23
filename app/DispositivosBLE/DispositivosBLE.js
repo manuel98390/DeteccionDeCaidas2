@@ -267,7 +267,7 @@ function DispositivosBLE(props) {
             
 
             
-            // caidaLibre = fase1 (vm)
+            // caidaLibre = fase1 (vm) jkjkjk
             if(vm < 0.5){
                 console.log("Caida libre")
                 console.log("Se detecto la caida libre con el valor: ", vm)
